@@ -1,0 +1,1 @@
+This is the code for the relay mote whose function is just to forward its received messages.

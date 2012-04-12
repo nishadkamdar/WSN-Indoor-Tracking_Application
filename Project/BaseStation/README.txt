@@ -1,0 +1,1 @@
+this is the code for the BASE STATION for collection of Query messages and Time Synchronization messages.
